@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+.main {
+  background-color: white;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 10px;
+  padding-top: 2px;
+}
+
+.card {
+  height: 100%;
+}
+p {
+  padding: 10px;
+  text-align: justify;
+}
+.navbar {
+  margin: 10px;
+}
+img {
+  margin: 10px;
+}
+ul {
+  list
+}
